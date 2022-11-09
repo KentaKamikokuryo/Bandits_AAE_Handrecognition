@@ -3,6 +3,12 @@
 # DEMO
  
 This demonstration uses Oculus Rift S data for analysis.
+
+For visualizing the analyzed Data, model as Adversarial Auto Encoder is used.
+
+For Dynamical Difficulty Adjustment, model as Bandits model with Kalman filter is used.
+
+In search, the model is optimized from a bunch of models and hyperparameters.
  
 # Requirement
  
